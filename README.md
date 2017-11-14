@@ -12,5 +12,5 @@ The script we use for consuming memory inside the container was adapted from [th
 
 See more:
 [Limiting container resources](https://docs.docker.com/engine/admin/resource_constraints/)
-[Enable kernel capabilities](https://docs.docker.com/engine/installation/linux/linux-postinstall/#your-kernel-does-not-support-    cgroup-swap-limit-capabilities)
+[Enable kernel capabilities](https://docs.docker.com/engine/installation/linux/linux-postinstall/#your-kernel-does-not-support-cgroup-swap-limit-capabilities)
 [Checking container metrics](https://blog.docker.com/2013/10/gathering-lxc-docker-containers-metrics/)
