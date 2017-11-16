@@ -2,7 +2,7 @@
 
 This is for testing wether the resource limitations for a container will work on a given host. Generate the container and run it with the flags and script according to what you wish to test.
 
-For testint memory limits, use:
+For testing memory limits, use:
 
 ```
 docker run --memory-swappiness=0 -m <n>g --memory-swap <n>g <image_name> ./eat_memory.py
