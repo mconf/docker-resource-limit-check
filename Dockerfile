@@ -1,5 +1,5 @@
 FROM python
 
-ADD . .
+ADD ./scripts .
 
 ENTRYPOINT ["python"]
